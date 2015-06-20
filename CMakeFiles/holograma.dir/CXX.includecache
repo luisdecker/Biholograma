@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/decker/Git/bihologram/Biholograma/src/HologramCleaner.h
+opencv2/opencv.hpp
+/home/decker/Git/bihologram/Biholograma/src/opencv2/opencv.hpp
+
+/home/decker/Git/bihologram/Biholograma/src/main.cpp
+cstdlib
+-
+opencv2/highgui/highgui.hpp
+-
+HologramCleaner.h
+/home/decker/Git/bihologram/Biholograma/src/HologramCleaner.h
+

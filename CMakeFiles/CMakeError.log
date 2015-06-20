@@ -1,0 +1,98 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+/usr/bin/ld: cannot find -lstdc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2533807833/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2533807833.dir/build.make CMakeFiles/cmTryCompileExec2533807833.dir/build
+make[1]: Entering directory '/home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2533807833.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec2533807833.dir/testCXXCompiler.cxx.o -c /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec2533807833
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2533807833.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec2533807833.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec2533807833 -rdynamic 
+/usr/bin/ld: cannot find -lstdc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+CMakeFiles/cmTryCompileExec2533807833.dir/build.make:88: recipe for target 'cmTryCompileExec2533807833' failed
+make[1]: Leaving directory '/home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec2533807833] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec2533807833/fast' failed
+make: *** [cmTryCompileExec2533807833/fast] Error 2
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+/usr/bin/ld: cannot find -lstdc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3778254634/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3778254634.dir/build.make CMakeFiles/cmTryCompileExec3778254634.dir/build
+make[1]: Entering directory '/home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3778254634.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec3778254634.dir/testCXXCompiler.cxx.o -c /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec3778254634
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3778254634.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec3778254634.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec3778254634 -rdynamic 
+/usr/bin/ld: cannot find -lstdc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+CMakeFiles/cmTryCompileExec3778254634.dir/build.make:88: recipe for target 'cmTryCompileExec3778254634' failed
+make[1]: Leaving directory '/home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec3778254634] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec3778254634/fast' failed
+make: *** [cmTryCompileExec3778254634/fast] Error 2
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+/usr/bin/ld: cannot find -lstdc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec436626309/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec436626309.dir/build.make CMakeFiles/cmTryCompileExec436626309.dir/build
+make[1]: Entering directory '/home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec436626309.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec436626309.dir/testCXXCompiler.cxx.o -c /home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec436626309
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec436626309.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec436626309.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec436626309 -rdynamic 
+/usr/bin/ld: cannot find -lstdc++
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+CMakeFiles/cmTryCompileExec436626309.dir/build.make:88: recipe for target 'cmTryCompileExec436626309' failed
+make[1]: Leaving directory '/home/decker/Git/bihologram/Biholograma/CMakeFiles/CMakeTmp'
+make[1]: *** [cmTryCompileExec436626309] Error 1
+Makefile:117: recipe for target 'cmTryCompileExec436626309/fast' failed
+make: *** [cmTryCompileExec436626309/fast] Error 2
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files

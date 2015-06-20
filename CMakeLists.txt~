@@ -1,0 +1,12 @@
+cmake_minimum_required (VERSION 3.0)
+project (Biholograma)
+set (Biholograma_VERSION_MAJOR 0)
+set (Biholograma_VERSION_MINOR 1)
+ 
+find_package( OpenCV REQUIRED )
+
+add_executable(holograma src/main.cpp src/HologramCleaner.h)
+
+target_link_libraries(holograma ${OpenCV_LIBS})
+
+
