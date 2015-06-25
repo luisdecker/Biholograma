@@ -20,7 +20,7 @@ void HologramCleaner::bgs(cv::Mat& hologram) {
     img.copyTo(alce);
     alce.convertTo(alce, CV_8UC1);
     double otsu = cv::threshold(img, alce, 50, 255, cv::THRESH_OTSU + cv::THRESH_BINARY);
-    img = HologramCleaner::filtroDeckeriano(img, otsu, .55);
+    img = HologramCleaner::filtroDeckeriano(img, otsu, 0.4);
 
 
     img.copyTo(hologram);
